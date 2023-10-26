@@ -1,1 +1,1 @@
-Welcome to Git Workshop!
+Welcome to Git and GitHub Workshop!
